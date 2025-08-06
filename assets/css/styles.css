@@ -631,6 +631,7 @@ footer .desc {
     justify-content: center;
     align-items: center;
     border-radius: 3px;
+    background-color: #f9f9f9;
 }
 
 .footer .social-link + .social-link {
